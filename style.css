@@ -1,0 +1,12 @@
+:root{
+--rosa-principal:#FF0000;
+--azul-secundario:#0601FF;
+--botao-branco:#ffffff;
+--cor-de-fundo:#F51C1C;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--azul-secundario);Imports Cars Seu Zé
+
+};
